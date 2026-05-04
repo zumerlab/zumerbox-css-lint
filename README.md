@@ -1,5 +1,8 @@
 # @zumerbox/css-lint
 
+> [!WARNING]
+> **DEPRECATED.** Replaced by [`@zumerbox/lint-preset`](https://github.com/zumerlab/zumerbox-lint-preset). Use the `lint-css` binary in that package.
+
 A tool for linting CSS files to catch errors and enforce coding standards.
 
 Refer to the [ZumerBox bundle](https://github.com/zumerlab/zumerbox) for more information and tools.
